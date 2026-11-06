@@ -1,0 +1,6 @@
+{
+  "name": "IPTV NORDIC",
+  "description": "Svensk försäljningsplattform för IPTV NORDIC premiumabonnemang: livekanaler, ett omfattande film- och seriekatalog, abonnemang, kundomdömen och en interaktiv betalningsmodul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
